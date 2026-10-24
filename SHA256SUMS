@@ -1,0 +1,4 @@
+f0e452f901133f9ff6569213a104eb9bb2daeb539273509cadfa0846cedf4165  iso/autoinst-issabel5-ol8.iso
+c70cc1671ae6ab2732fd1dc21841392f51307516efe59fb9d3f35d7702963cd9  iso/autoinst-ol8.iso
+111d479a9f74bfe7ea8c88f8115617dd776caa8a83825cba33562ff838f9833c  scripts/issabel5-netinstall-el8.sh
+edbfe1fc68482921ae5006190e8dac6da8ecaae690679a6504372da6539db937  scripts/issabel-verify.sh
